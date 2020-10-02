@@ -459,6 +459,17 @@ function phoneSizes() {
       "top": 59,
       "middle": 399,
       "bottom": 399
+    },
+    
+    "1624": {
+      "small": 310,
+      "medium": 658,
+      "large": 690,
+      "left": 46,
+      "right": 394,
+      "top": 142,
+      "middle": 522,
+      "bottom": 902 
     }
   }
   return phones
