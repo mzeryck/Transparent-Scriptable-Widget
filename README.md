@@ -1,12 +1,4 @@
-# Transparent Scriptable Widget
-This code allows you to easily customize a "transparent" widget (one that blends into your iOS home screen background) using the Scriptable app - without knowing any code.
+# There's something better waiting for you...
+I wrote this script after a [Reddit post](https://www.reddit.com/r/iOSsetups/comments/j1o6v4/automatically_create_transparent_widgets_with/) ended up gaining more interest than I anticipated. However, I've since created [__Weather Cal__](https://github.com/mzeryck/Weather-Cal), which is much more flexible, has way more options, and is actively maintained.
 
-## How it works
-Here's the breif summary of how it works:
-1. Download the [Scriptable app](https://apps.apple.com/us/app/scriptable/id1405459188?ign-mpt=uo%3D4) from the iOS App Store.
-2. Copy the code from mz_transparent_widget.js into a new script.
-3. Optionally change any of the widget settings near the top of the file.
-4. Run the script by tapping the purple icon or hitting the "play" button in the code view.
-5. On your home screen, add a Scriptable widget. Enter the widget settings, and choose the script name.
-
-That's the simple summary of how to get started. I'm planning to add more information here soon!
+I'll leave this project as-is, and you're of course welcome to use it. But I'd recommend checking out Weather Cal instead. Have fun scripting!
