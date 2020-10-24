@@ -396,6 +396,18 @@ function cropImage(img, rect) {
 function phoneSizes() {
   let phones = {  
   
+    // 12 and 12 Pro
+    "2532": {
+      small:  474,
+      medium: 1014,
+      large:  1062,
+      left:  78,
+      right: 618,
+      top:    231,
+      middle: 819,
+      bottom: 1407
+    },
+  
     // 11 Pro Max, XS Max
     "2688": {
       small:  507,
